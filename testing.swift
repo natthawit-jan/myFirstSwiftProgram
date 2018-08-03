@@ -12,4 +12,10 @@ class People{
     }
     
     
+    func printFullName() -> String {
+        return fullName
+    }
+    
+    
+    
 }
